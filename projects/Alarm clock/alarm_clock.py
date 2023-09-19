@@ -1,4 +1,3 @@
-# Zaryab 2nd Change
 # Zaryab !st Change
 # Import Required Library
 from tkinter import *
